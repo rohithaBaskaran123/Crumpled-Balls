@@ -1,0 +1,11 @@
+class Bin{
+    constructor(){
+
+
+    }      
+
+    display(){
+
+    }
+
+}
